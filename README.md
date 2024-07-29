@@ -5,46 +5,36 @@ The Shoe Shop Mobile Application is designed to provide a seamless shopping expe
 
 ## Features
 Browse Collection: Explore a vast collection of shoes from various brands and categories.
+
 Search Functionality: Quickly find specific shoes using the search bar with filters.
+
 Product Details: View detailed information, including images, descriptions, sizes, and reviews.
+
 Shopping Cart: Add desired items to the shopping cart for easy checkout.
-Secure Payments: Multiple payment options including credit card, debit card, and digital wallets.
-Order Tracking: Track your orders in real-time from purchase to delivery.
-Wishlist: Save your favorite items for future purchase.
-Personalized Recommendations: Get suggestions based on your browsing and purchase history.
-User Reviews: Read and write reviews for different products.
 
 ## Installation
 use android studio emulator or another device to run application.
 
 ## Usage
 Open the App:
-
 Launch the application from your home screen.
+
 Browse Shoes:
+Navigate through various categories.
 
-Navigate through various categories or use the search bar to find specific shoes.
 View Product Details:
-
 Tap on a shoe to see detailed information including images, size options, and customer reviews.
+
 Add to Cart:
-
 Select your preferred size and tap "Add to Cart."
+
 Checkout:
-
 Go to your shopping cart and tap "Checkout."
-Enter your shipping details and choose a payment method.
 Confirm your order.
-Track Order:
-
-Use the "Order Tracking" feature to monitor the status of your purchase.
-Wishlist:
-
-Save items to your wishlist by tapping the heart icon on product pages.
 
 Thank you for using the Shoe Shop Application!.
 
-# Aplikasi Pengelolaan Tugas Mobile
+# Aplikasi Toko Sepatu
 
 ## Ringkasan
 Aplikasi pengelolaan tugas mobile didesain untuk membantu pengguna secara efektif mengelola tugas rutin dan aktivitas. Aplikasi membantu pengguna untuk membuat, mengedit, menghapus, dan mengorganisasi tugas dengan mudah, memberikan antarmuka yang ramah pengguna dan variasi fitur yang dapat meningkatkan produktivitas. Untuk membuat, mengedit, menghapus, dan mengorganisasi menggunakan graphql dan penggunaan mongodb untuk database.
