@@ -1,12 +1,10 @@
 # Shoe Shop Application
 
 ## Overview
-The Shoe Shop Mobile Application is designed to provide a seamless shopping experience for shoe enthusiasts. Users can browse, search, and purchase shoes from a wide variety of brands and styles. The app features an intuitive interface, secure payment options, and personalized recommendations.
+The Shoe Shop Mobile Application is designed to provide a seamless shopping experience for shoe enthusiasts. Users can browse and purchase shoes from a wide variety of brands and styles.
 
 ## Features
 Browse Collection: Explore a vast collection of shoes from various brands and categories.
-
-Search Functionality: Quickly find specific shoes using the search bar with filters.
 
 Product Details: View detailed information, including images, descriptions, sizes, and reviews.
 
@@ -37,7 +35,7 @@ Thank you for using the Shoe Shop Application!.
 # Aplikasi Toko Sepatu
 
 ## Ringkasan
-Aplikasi pengelolaan tugas mobile didesain untuk membantu pengguna secara efektif mengelola tugas rutin dan aktivitas. Aplikasi membantu pengguna untuk membuat, mengedit, menghapus, dan mengorganisasi tugas dengan mudah, memberikan antarmuka yang ramah pengguna dan variasi fitur yang dapat meningkatkan produktivitas. Untuk membuat, mengedit, menghapus, dan mengorganisasi menggunakan graphql dan penggunaan mongodb untuk database.
+Aplikasi toko sepatu memberikan pengalaman berbelanja sepatu dengan lancar untuk penggemar sepatu. Pengguna dapat menjelajahi dan membeli sepatu dari banyak variasi brand dan gaya.
 
 ## Fitur
 Pembuatan tugas: mudah membuat tugas dengan detail seperti judul dan deskripsi.
